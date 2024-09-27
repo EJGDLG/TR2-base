@@ -1,1 +1,1 @@
-#RT2: Opaque, Reflective & Refractive Materials
+RT2: Opaque, Reflective & Refractive Materials
